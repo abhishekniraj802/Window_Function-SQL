@@ -262,3 +262,5 @@ FROM sales
  Window functions greatly improve SQL's analytical capabilities by allowing you to perform complex
  calculations while preserving the detail rows of your data, avoiding the need for self-joins or
  subqueries in many cases
+
+
